@@ -1,3 +1,34 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* --- TEMA MINECRAFT --- */
+
+/* 1. Remover arredondamento de TUDO */
+* {
+  border-radius: 0px !important;
+}
+
+/* 2. Deixar as imagens pixeladas (sem borrar ao dar zoom) */
+img {
+  image-rendering: pixelated;
+  border: 2px solid var(--lightgray); /* Moldura na imagem */
+  padding: 5px;
+  background-color: var(--light);
+}
+
+/* 3. Estilo dos Callouts (caixas de aviso) para parecerem Slots de Inventário */
+.callout {
+  border: 2px solid var(--darkgray) !important;
+  background-color: var(--lightgray) !important;
+  box-shadow: inset 2px 2px 0px rgba(0,0,0,0.2); /* Sombra interna 3D */
+}
+
+/* 4. Barra Lateral estilo Menu */
+.sidebar {
+  border-right: 2px solid var(--darkgray);
+}
+
+/* 5. Ajuste na fonte para ficar nitida */
+body, h1, h2, h3, h4, h5, h6 {
+  -webkit-font-smoothing: none; /* Tira o suavizado da fonte */
+}

@@ -23,32 +23,30 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Silkscreen", // Fonte pixelada para títulos
+        body: "Space Mono",   // Fonte técnica para leitura
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#D8D8D8",       // Cinza claro (fundo de inventário)
+          lightgray: "#FFFFFF",   // Branco (fundo dos slots)
+          gray: "#595959",        // Cinza pedra
+          darkgray: "#262626",    // Cinza escuro
+          dark: "#1D1D1D",        // Preto (texto)
+          secondary: "#00AA00",   // Verde Creeper (links)
+          tertiary: "#8B5E3C",    // Marrom Terra (hover)
+          highlight: "rgba(0, 170, 0, 0.15)", // Marca-texto verde
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1e1e1e",       // Fundo Preto (Bedrock/Obsidian)
+          lightgray: "#393939",   // Cinza Pedregulho
+          gray: "#787878",        // Cinza claro
+          darkgray: "#AAAAAA",    // Texto secundário
+          dark: "#FFFFFF",        // Texto principal Branco
+          secondary: "#55FFFF",   // Azul Diamante (Links)
+          tertiary: "#FFAA00",    // Laranja Ouro (Hover)
+          highlight: "rgba(85, 255, 255, 0.15)", // Marca-texto azul
         },
       },
     },
