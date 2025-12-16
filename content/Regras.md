@@ -4,7 +4,7 @@
     
 - **Pegar Emprestado:** Precisa de algo? Pergunte. Se o dono não estiver online, deixe uma placa avisando o que pegou e reponha assim que possível.
 
-#### 2. A Regra do PvP (Player vs Player)
+#### 2. PvP
 
 - **Apenas Consensual:** O combate entre jogadores só é permitido se **ambos** concordarem.
     
@@ -18,7 +18,7 @@
     
 - **Mineração:** Evite fazer "buracos de tatu" (túneis 1x1 verticais) perto de áreas comuns ou bases.
 
-#### 4. A "Lei da Zoeira" (Pranks)
+#### 4. Prank ou Trap
 
 - Brincadeiras são permitidas, **DESDE QUE:**
     

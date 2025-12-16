@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Silkscreen", // Fonte pixelada para títulos
-        body: "Space Mono",   // Fonte técnica para leitura
+        header: "Pixelify Sans", // Fonte pixelada para títulos
+        body: "Exo 2",   // Fonte técnica para leitura
         code: "IBM Plex Mono",
       },
       colors: {
@@ -44,9 +44,9 @@ const config: QuartzConfig = {
           gray: "#787878",        // Cinza claro
           darkgray: "#AAAAAA",    // Texto secundário
           dark: "#FFFFFF",        // Texto principal Branco
-          secondary: "#55FFFF",   // Azul Diamante (Links)
+          secondary: "#55c655",   // Azul Diamante (Links)
           tertiary: "#FFAA00",    // Laranja Ouro (Hover)
-          highlight: "rgba(85, 255, 255, 0.15)", // Marca-texto azul
+          highlight: "#a6d8a6", // Marca-texto azul
         },
       },
     },
