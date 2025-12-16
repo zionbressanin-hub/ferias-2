@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "zionbressanin-hub.github.io/Ferias-II",
+    baseUrl: "zionbressanin-hub.github.io/ferias-2",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
