@@ -3,10 +3,10 @@
 É bem mais fácil, o método que eu recomendo é através do **Modrinth**, é a maneira mais prática.
 1.  Instale o Modrynth no site: https://modrinth.com/;
 2. Conecte com a sua conta Microsoft.;
-3. Abra o link a seguir e abra o arquivo *.mrpack* baixado. Em seguida aguarde a instalação do modpack.
+3. Abra o link a seguir (https://drive.google.com/drive/folders/1cgqxMFt4wJstZXJbQoZBh8mnq_a91KS2?usp=sharing) e abra o arquivo *.mrpack* baixado. Em seguida aguarde a instalação do modpack.
 4. 
 > para atualizar, basta repetir o passo 3) 
-> NUNCA atualize pelo botão update do Modrynth
+> NUNCA atualize pelo botão update do Modrynth ou pelos mods
 ## Para Minecraft Pirata
 
 A recomendação é não usar Tlauncher, a opção (aparentemente) menos suspeita é o SKLauncher (https://skmedix.pl/)
@@ -26,6 +26,6 @@ A recomendação é não usar Tlauncher, a opção (aparentemente) menos suspeit
 5. Inicie o Jogo ao menos uma vez;
 6. Feche o jogo assim que abrir;
 7. Clique nos três pontinhos e depois em abrir diretório.
-8. Acesse a pasta mods e arraste o modpack deste link ()
+8. Acesse a pasta mods e arraste o modpack deste link (https://drive.google.com/drive/folders/1cgqxMFt4wJstZXJbQoZBh8mnq_a91KS2?usp=sharing)
 
 > para atualizar, basta repetir os passos 6, 7 e 8 :)

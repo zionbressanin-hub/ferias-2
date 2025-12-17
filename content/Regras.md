@@ -30,7 +30,7 @@
         
 - _Exemplo bom:_ Encher a casa do amigo de barcos ou galinhas.
     
-- _Exemplo ruim:_ Cobrir a casa de obsidiana.
+- _Exemplo ruim:_ Lava.
 
 #### 5. Economia e Trocas
 
@@ -40,8 +40,6 @@
 
 #### 6. Uso de Mods e Trapaças
 
-- **Permitido:** Mods de performance (Sodium), visuais (Iris/Shaders), minimapas (sem radar de jogadores/cavernas) e schematics (Litematica) para facilitar a construção.
-    
 - **Proibido:** X-Ray, Fly, Kill Aura ou qualquer mod que te dê vantagem desleal na mineração ou combate.
 
 #### 7. Lag e Redstone
@@ -49,3 +47,5 @@
 - Evite deixar máquinas de Redstone ou "Farms" complexas ligadas 24h sem necessidade.
     
 - Se a sua farm estiver lagando o servidor (derrubando o TPS), você será solicitado a desligá-la ou otimizá-la.
+- CHEQUEM se a farm não é pra versão bedrock;
+- Consulte o resto do servidor para evitar farms em lugares indesejados e redundantes, para evitar lag, somos um servidor que socializa a produção automática ☭
