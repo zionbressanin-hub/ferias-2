@@ -87,7 +87,7 @@ Para solicitar a remoção ou inclusão de algum mod ou funcionalidade, fale com
 [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)
 [InvMove](https://modrinth.com/mod/invmove)
 [Cut Through](https://modrinth.com/mod/cut-through)
-[Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)
+[Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) Wiki Interna > [[Configurando o Voice Chat de proximidade]]
 [Connectible Chains [Fabric]](https://modrinth.com/mod/connectiblechains)
 [Medieval Buildings](https://modrinth.com/mod/medieval-buildings)
 [Replanting Crops](https://modrinth.com/mod/replanting-crops)
