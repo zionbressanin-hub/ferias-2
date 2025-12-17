@@ -17,7 +17,7 @@ O Iris é a "ferramenta", mas você precisa dos "arquivos" de visual (os Shader 
 
 ### Instalando e Ativando os Shaders
 
-Com o jogo aberto no perfil Iris:
+Com o jogo aberto:
 
 1. Vá em **Opções** > **Configurações de Vídeo**.
     
