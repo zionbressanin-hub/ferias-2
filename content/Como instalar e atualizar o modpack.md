@@ -1,3 +1,4 @@
+**Avisando que a primeira vez deve dar uma travadinha**, é o loader instalando os mods e criando as pastas abra com calma deixe ele "não responder" por um tempo, vai dar certo! **Depois fica bem mais fácil abrir.**
 ## Para Minecraft Original
 
 É bem mais fácil, o método que eu recomendo é através do **Modrinth**, é a maneira mais prática.
