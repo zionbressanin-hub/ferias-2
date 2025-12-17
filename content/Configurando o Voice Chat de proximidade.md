@@ -14,7 +14,7 @@ Ao pressionar `V`, você verá o menu principal:
 
 ---
 
-## 3. Configurando seu Microfone
+## 2. Configurando seu Microfone
 
 É crucial configurar isso no primeiro acesso para evitar ecos ou áudio estourado.
 
@@ -44,7 +44,7 @@ Se você escolheu _Voice Activation_, ajuste a barra inferior (**Activation Thre
 
 ---
 
-## 4. Ajustando o Áudio dos Amigos
+## 3. Ajustando o Áudio dos Amigos
 
 Se alguém estiver muito alto ou muito baixo, você pode ajustar o volume individualmente sem pedir para a pessoa mexer no microfone dela.
 
@@ -59,7 +59,7 @@ Se alguém estiver muito alto ou muito baixo, você pode ajustar o volume indivi
 
 ---
 
-## 5. Teclas de Atalho Úteis
+## 4. Teclas de Atalho Úteis
 
 Você pode alterar essas teclas em _Opções > Controles > Key Binds > Voice Chat_.
 

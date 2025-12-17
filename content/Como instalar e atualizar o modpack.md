@@ -12,7 +12,7 @@ A recomendação é não usar Tlauncher, a opção (aparentemente) menos suspeit
 
 1. Clique em mudar para modo offline (porque não podem dizer piratas)
 
-![[Pasted image 20251217000504.png]]
+![[ASSesPasted image 20251217000504.png]]
 
 2.  Escolha um nome, não esqueça dele, seus itens no server serão vinculados ao seu nick!
 ![[Pasted image 20251217000620.png]]

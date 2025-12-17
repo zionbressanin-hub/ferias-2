@@ -3,8 +3,7 @@ title: Olá!
 ---
 Essa é a mini wiki do **Férias II**, pode me mandar mensagem caso falte algo por aqui, mas espero que encontre tudo o que precisar **;)**
 
-Para entrar clique em Multiplayer e insira o seguinte IP:
-asdasdasdasdasd
+Para entrar clique em Multiplayer e insira o seguinte IP: EM BREVE
 
 [[Regras]]
 

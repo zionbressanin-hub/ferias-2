@@ -3,7 +3,7 @@
 
 O pacote foi feito pensando na otimização de recursos para a inclusão de todos os amiguinhos com computadores medianos. Aqui temos uma lista com os todos os mods instalados atualmente, boa parte das wikis e overviews podem ser acessadas a partir desses links.
 
-Para solicitar a remoção ou inclusão de algum mod ou funcionalidade, fale comigo!
+> Para solicitar a remoção ou inclusão de algum mod ou funcionalidade, fale comigo!
 
 [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)
 [Item Highlighter](https://modrinth.com/mod/item-highlighter)
