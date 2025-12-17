@@ -1,1 +1,1 @@
-> Mandem sugestões com a print e coordenadas para popular essa página!
+> Mande sugestões com a print e coordenadas para popular essa página!

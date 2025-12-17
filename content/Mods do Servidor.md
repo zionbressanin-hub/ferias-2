@@ -1,7 +1,7 @@
 
 *Estamos utilizando Minecraft 1.20.1 (Fabric 0.18.2)*
 
-O pacote foi feito pensando na otimização de recursos para a inclusão de todos os amiguinhos com computadores medianos. Aqui temos uma lista com os todos os mods instalados atualmente, boa parte das wikis e overviews podem ser acessadas a partir desses links.
+O pacote foi feito pensando na otimização de recursos para a **inclusão de todos os amiguinhos com computadores medianos.** Aqui temos uma lista com os todos os mods instalados atualmente, boa parte das wikis e overviews podem ser acessadas a partir desses links.
 
 > Para solicitar a remoção ou inclusão de algum mod ou funcionalidade, fale comigo!
 

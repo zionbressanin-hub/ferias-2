@@ -1,1 +1,1 @@
-> Mandem a coordenada de suas vilas e bases se quiserem torná-las públicas aqui nessa página!
+> Mande a coordenada de suas vilas e bases se quiser torná-las públicas aqui nessa página!

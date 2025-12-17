@@ -5,14 +5,15 @@
 2. Conecte com a sua conta Microsoft.;
 3. Abra o link a seguir e abra o arquivo *.mrpack* baixado. Em seguida aguarde a instalação do modpack.
 4. 
-> para atualizar, basta repetir o passo 3)
+> para atualizar, basta repetir o passo 3) 
+> NUNCA atualize pelo botão update do Modrynth
 ## Para Minecraft Pirata
 
 A recomendação é não usar Tlauncher, a opção (aparentemente) menos suspeita é o SKLauncher (https://skmedix.pl/)
 
 1. Clique em mudar para modo offline (porque não podem dizer piratas)
 
-![[ASSesPasted image 20251217000504.png]]
+![[Pasted image 20251217000504.png]]
 
 2.  Escolha um nome, não esqueça dele, seus itens no server serão vinculados ao seu nick!
 ![[Pasted image 20251217000620.png]]
