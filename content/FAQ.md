@@ -10,4 +10,5 @@ O custo mensal é calculado a partir da quantidade de jogadores ativos no mês, 
 
 Infelizmente não posso bancar pra todo mundo, então se deseja jogar e manter o servidor vivo não me coloque na situação de ficar cobrando você <3
 
-Existe um teste grátis pra quem quiser testar se o modpack funciona bem, basta solicitar pra mim que dou acesso momentâneo sem pagamento.
+>Existe um teste grátis pra quem quiser testar se o modpack funciona bem, basta solicitar pra mim que dou acesso momentâneo sem pagamento.
+
