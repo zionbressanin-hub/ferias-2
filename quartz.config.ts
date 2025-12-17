@@ -44,9 +44,9 @@ const config: QuartzConfig = {
           gray: "#787878",        // Cinza claro
           darkgray: "#AAAAAA",    // Texto secundário
           dark: "#FFFFFF",        // Texto principal Branco
-          secondary: "#55c655",   // Azul Diamante (Links)
+          secondary: "#a6d8a6",   // Azul Diamante (Links)
           tertiary: "#FFAA00",    // Laranja Ouro (Hover)
-          highlight: "#a6d8a6", // Marca-texto azul
+          highlight: "#55c655", // Marca-texto azul
         },
       },
     },
