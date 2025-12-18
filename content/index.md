@@ -3,7 +3,7 @@ title: Olá!
 ---
 Essa é a mini wiki do **Férias II**, pode me mandar mensagem caso falte algo por aqui, mas espero que encontre tudo o que precisar **;)**
 
-Para entrar clique em Multiplayer e insira o seguinte IP: Abre às 18H
+Para entrar clique em Multiplayer e insira o seguinte IP: feriasii.enxada.host
 
 [[Regras]]
 

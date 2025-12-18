@@ -12,3 +12,6 @@ Infelizmente não posso bancar pra todo mundo, então se deseja jogar e manter o
 
 >Existe um teste grátis pra quem quiser testar se o modpack funciona bem, basta solicitar pra mim que dou acesso momentâneo sem pagamento.
 
+### Minha tela tá piscando, o que fazer?
+
+Isso normalmente tá associado a tela cheia, aperte F11 ou mude a predefinição nas configurações de vídeo. Deve resolver.
